@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets and Models
+# NOTE: Kaggle datasets and trained transformer models are too large for Git!
+fake_news_detection_dataset/
+*.csv
+*.h5
+*.hdf5
+*.pkl
+bert_finetuned/
+roberta_finetuned/
+
+# Zips
+*.zip
+
+# Temporary Output Files from Scripts
+phase*_out.txt
+
+# Generated Reports
+Phase_*_Report.md
