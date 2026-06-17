@@ -60,3 +60,6 @@ In a real-world scenario (e.g., monitoring a live Twitter firehose), a two-tiere
 
 ## 🛠 Tech Stack
 Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Scikit-learn · TensorFlow/Keras · Hugging Face Transformers · PyTorch · Streamlit
+
+## Dataset Link 
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
